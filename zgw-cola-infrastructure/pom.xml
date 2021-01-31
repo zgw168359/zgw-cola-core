@@ -33,13 +33,5 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
         </dependency>
-
-        <!-- 自定义依赖 Start -->
-        <!-- mybatis plus -->
-        <dependency>
-            <groupId>com.baomidou</groupId>
-            <artifactId>mybatis-plus-boot-starter</artifactId>
-        </dependency>
-        <!-- 自定义依赖 End -->
     </dependencies>
 </project>

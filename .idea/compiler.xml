@@ -12,6 +12,7 @@
         <module name="zgw-cola-client" />
         <module name="start" />
         <module name="zgw-cola-infrastructure" />
+        <module name="zgw-cola-common" />
         <module name="zgw-cola-adapter" />
       </profile>
     </annotationProcessing>
@@ -20,6 +21,7 @@
       <module name="zgw-cola-adapter" target="1.8" />
       <module name="zgw-cola-app" target="1.8" />
       <module name="zgw-cola-client" target="1.8" />
+      <module name="zgw-cola-common" target="1.8" />
       <module name="zgw-cola-domain" target="1.8" />
       <module name="zgw-cola-infrastructure" target="1.8" />
       <module name="zgw-cola-parent" target="1.8" />

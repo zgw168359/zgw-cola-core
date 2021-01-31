@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1b7fe6d-4b83-4ebb-9415-29537dd16ab7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/zgw-cola-common/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/start/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/start/start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/start/start.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zgw-cola-adapter/zgw-cola-adapter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zgw-cola-adapter/zgw-cola-adapter.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zgw-cola-app/zgw-cola-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zgw-cola-app/zgw-cola-app.iml" afterDir="false" />
@@ -41,12 +43,15 @@
     <option name="vmOptions" value="-DarchitectCatalog=internal" />
   </component>
   <component name="ProjectId" id="1nmj8dyUNVd3NZzjgQXZZ6u3iGO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -54,6 +59,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
@@ -100,7 +106,8 @@
       <option name="presentableId" value="Default" />
       <updated>1612002001405</updated>
       <workItem from="1612002004268" duration="2145000" />
-      <workItem from="1612061068116" duration="5563000" />
+      <workItem from="1612061068116" duration="11678000" />
+      <workItem from="1612072882093" duration="702000" />
     </task>
     <task id="LOCAL-00001" summary="创建项目">
       <created>1612002503227</created>
@@ -116,69 +123,85 @@
       <option name="project" value="LOCAL" />
       <updated>1612003938809</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="配置修改">
+      <created>1612066902696</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612066902696</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="创建项目" />
     <MESSAGE value="配置修改" />
     <option name="LAST_COMMIT_MESSAGE" value="配置修改" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="88" y="0" key="CommitChangelistDialog2" timestamp="1612003937198">
+    <state x="88" y="0" key="CommitChangelistDialog2" timestamp="1612066900579">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="88" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1612003937198" />
+    <state x="88" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1612066900579" />
+    <state x="129" y="47" key="DiffContextDialog" timestamp="1612066940759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="47" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1612066940759" />
     <state x="413" y="50" key="FileChooserDialogImpl" timestamp="1612002134692">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="50" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1612002134692" />
-    <state width="1313" height="156" key="GridCell.Tab.0.bottom" timestamp="1612004162086">
+    <state width="1313" height="380" key="GridCell.Tab.0.bottom" timestamp="1612073456816">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612004162086" />
-    <state width="1313" height="156" key="GridCell.Tab.0.center" timestamp="1612004162086">
+    <state width="1313" height="380" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612073456816" />
+    <state width="1313" height="380" key="GridCell.Tab.0.center" timestamp="1612073456816">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="156" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1612004162086" />
-    <state width="1313" height="156" key="GridCell.Tab.0.left" timestamp="1612004162086">
+    <state width="1313" height="380" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1612073456816" />
+    <state width="1313" height="380" key="GridCell.Tab.0.left" timestamp="1612073456816">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="156" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1612004162086" />
-    <state width="1313" height="156" key="GridCell.Tab.0.right" timestamp="1612004162086">
+    <state width="1313" height="380" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1612073456816" />
+    <state width="1313" height="380" key="GridCell.Tab.0.right" timestamp="1612073456816">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612004162086" />
-    <state width="1313" height="156" key="GridCell.Tab.1.bottom" timestamp="1612004162088">
+    <state width="1313" height="380" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612073456816" />
+    <state width="1313" height="380" key="GridCell.Tab.1.bottom" timestamp="1612073456816">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="156" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612004162088" />
-    <state width="1313" height="156" key="GridCell.Tab.1.center" timestamp="1612004162087">
+    <state width="1313" height="380" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612073456816" />
+    <state width="1313" height="380" key="GridCell.Tab.1.center" timestamp="1612073456816">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="156" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1612004162087" />
-    <state width="1313" height="156" key="GridCell.Tab.1.left" timestamp="1612004162087">
+    <state width="1313" height="380" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1612073456816" />
+    <state width="1313" height="380" key="GridCell.Tab.1.left" timestamp="1612073456816">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="156" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1612004162087" />
-    <state width="1313" height="156" key="GridCell.Tab.1.right" timestamp="1612004162087">
+    <state width="1313" height="380" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1612073456816" />
+    <state width="1313" height="380" key="GridCell.Tab.1.right" timestamp="1612073456816">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="156" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1612004162087" />
-    <state x="175" y="23" key="Vcs.Push.Dialog.v2" timestamp="1612003941875">
+    <state width="1313" height="380" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1612073456816" />
+    <state x="175" y="23" key="Vcs.Push.Dialog.v2" timestamp="1612066942258">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="175" y="23" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1612003941875" />
-    <state x="310" y="66" width="746" height="596" key="find.popup" timestamp="1612004077764">
+    <state x="175" y="23" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1612066942258" />
+    <state x="310" y="66" width="746" height="596" key="find.popup" timestamp="1612070930256">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="310" y="66" width="746" height="596" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1612004077764" />
-    <state x="340" y="129" key="git4idea.merge.GitPullDialog" timestamp="1612066870488">
+    <state x="310" y="66" width="746" height="596" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1612070930256" />
+    <state x="340" y="129" key="git4idea.merge.GitPullDialog" timestamp="1612073577709">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="340" y="129" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1612066870488" />
+    <state x="340" y="129" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1612073577709" />
+    <state x="0" y="4" key="new project wizard" timestamp="1612067281585">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="4" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1612067281585" />
   </component>
 </project>
