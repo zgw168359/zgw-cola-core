@@ -13,6 +13,12 @@
     <name>zgw-cola-client</name>
 
     <dependencies>
+        <!-- 引入自定义common依赖 -->
+        <dependency>
+            <groupId>com.zgw.cola</groupId>
+            <artifactId>zgw-cola-common</artifactId>
+        </dependency>
+
         <dependency>
             <groupId>com.alibaba.cola</groupId>
             <artifactId>cola-component-dto</artifactId>

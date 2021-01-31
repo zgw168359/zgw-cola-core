@@ -80,6 +80,12 @@
                 <artifactId>zgw-cola-infrastructure</artifactId>
                 <version>${project.version}</version>
             </dependency>
+            <!-- 引入自定义 common module -->
+            <dependency>
+                <groupId>com.zgw.cola</groupId>
+                <artifactId>zgw-cola-common</artifactId>
+                <version>${project.version}</version>
+            </dependency>
             <!--Project modules End-->
             <!--Spring Boot-->
             <dependency>
