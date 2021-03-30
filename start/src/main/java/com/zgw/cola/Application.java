@@ -9,8 +9,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *
  * @author Frank Zhang
  */
-@SpringBootApplication(scanBasePackages = {"com.zgw.cola","com.alibaba.cola"})
-@MapperScan("com.zgw.cola.repository")
+@SpringBootApplication(scanBasePackages = {"com.zgw.cola"})
+@MapperScan("com.zgw.cola.dao")
 public class Application {
 
     public static void main(String[] args) {

@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.zgw.cola</groupId>
-    <artifactId>zgw-cola-core-parent</artifactId>
+    <artifactId>zgw-cola-core</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>zgw-cola-core</name>
