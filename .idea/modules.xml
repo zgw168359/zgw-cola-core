@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/start/start.iml" filepath="$PROJECT_DIR$/start/start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zgw-cola-core-adapter/zgw-cola-core-adapter.iml" filepath="$PROJECT_DIR$/zgw-cola-core-adapter/zgw-cola-core-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zgw-cola-core-app/zgw-cola-core-app.iml" filepath="$PROJECT_DIR$/zgw-cola-core-app/zgw-cola-core-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zgw-cola-core-client/zgw-cola-core-client.iml" filepath="$PROJECT_DIR$/zgw-cola-core-client/zgw-cola-core-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zgw-cola-core-domain/zgw-cola-core-domain.iml" filepath="$PROJECT_DIR$/zgw-cola-core-domain/zgw-cola-core-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zgw-cola-core-infrastructure/zgw-cola-core-infrastructure.iml" filepath="$PROJECT_DIR$/zgw-cola-core-infrastructure/zgw-cola-core-infrastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zgw-cola-core-parent.iml" filepath="$PROJECT_DIR$/zgw-cola-core-parent.iml" />
+    </modules>
+  </component>
+</project>

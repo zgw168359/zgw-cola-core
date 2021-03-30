@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="start" />
+        <module name="zgw-cola-core-app" />
+        <module name="zgw-cola-core-adapter" />
+        <module name="zgw-cola-core-domain" />
+        <module name="zgw-cola-core-client" />
+        <module name="zgw-cola-core-infrastructure" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="start" target="1.8" />
+      <module name="zgw-cola-core-adapter" target="1.8" />
+      <module name="zgw-cola-core-app" target="1.8" />
+      <module name="zgw-cola-core-client" target="1.8" />
+      <module name="zgw-cola-core-domain" target="1.8" />
+      <module name="zgw-cola-core-infrastructure" target="1.8" />
+      <module name="zgw-cola-core-parent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
