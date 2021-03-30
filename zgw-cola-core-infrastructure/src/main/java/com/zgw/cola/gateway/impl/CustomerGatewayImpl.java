@@ -1,5 +1,7 @@
-package com.zgw.cola.customer;
+package com.zgw.cola.gateway.impl;
 
+import com.zgw.cola.dao.dataobject.CustomerDO;
+import com.zgw.cola.dao.mapper.CustomerMapper;
 import com.zgw.cola.domain.customer.Customer;
 import com.zgw.cola.domain.customer.gateway.CustomerGateway;
 

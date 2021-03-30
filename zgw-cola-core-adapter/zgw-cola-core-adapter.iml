@@ -21,6 +21,9 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="zgw-cola-core-app" />
     <orderEntry type="module" module-name="zgw-cola-core-client" />
+    <orderEntry type="library" name="Maven: com.alibaba.cola:cola-component-dto:4.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.16" level="project" />
+    <orderEntry type="library" name="Maven: javax.validation:validation-api:2.0.0.Final" level="project" />
     <orderEntry type="module" module-name="zgw-cola-core-infrastructure" />
     <orderEntry type="module" module-name="zgw-cola-core-domain" />
     <orderEntry type="library" name="Maven: com.alibaba.cola:cola-component-domain-starter:4.0.1" level="project" />
@@ -38,10 +41,8 @@
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-aop:2.1.3.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.aspectj:aspectjweaver:1.9.2" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
-    <orderEntry type="library" name="Maven: com.alibaba.cola:cola-component-dto:4.0.1" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba.cola:cola-component-exception:4.0.1" level="project" />
     <orderEntry type="library" name="Maven: org.hibernate.validator:hibernate-validator:6.0.22.Final" level="project" />
-    <orderEntry type="library" name="Maven: javax.validation:validation-api:2.0.0.Final" level="project" />
     <orderEntry type="library" name="Maven: org.jboss.logging:jboss-logging:3.3.2.Final" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml:classmate:1.4.0" level="project" />
     <orderEntry type="library" name="Maven: javax.el:javax.el-api:3.0.0" level="project" />

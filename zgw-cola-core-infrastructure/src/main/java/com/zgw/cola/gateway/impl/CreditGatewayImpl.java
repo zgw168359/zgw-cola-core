@@ -1,4 +1,4 @@
-package com.zgw.cola.customer;
+package com.zgw.cola.gateway.impl;
 
 import com.zgw.cola.domain.customer.Credit;
 import com.zgw.cola.domain.customer.gateway.CreditGateway;
