@@ -3,15 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a1e48f17-e7b8-4e4e-a5d0-5695c5dd0190" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start/src/main/java/com/zgw/cola/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/start/src/main/java/com/zgw/cola/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/start/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zgw-cola-core-adapter/zgw-cola-core-adapter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zgw-cola-core-adapter/zgw-cola-core-adapter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zgw-cola-core-infrastructure/src/main/java/com/zgw/cola/customer/CreditGatewayImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/zgw-cola-core-infrastructure/src/main/java/com/zgw/cola/gateway/impl/CreditGatewayImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zgw-cola-core-infrastructure/src/main/java/com/zgw/cola/customer/CustomerDO.java" beforeDir="false" afterPath="$PROJECT_DIR$/zgw-cola-core-infrastructure/src/main/java/com/zgw/cola/dao/dataobject/CustomerDO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zgw-cola-core-infrastructure/src/main/java/com/zgw/cola/customer/CustomerGatewayImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/zgw-cola-core-infrastructure/src/main/java/com/zgw/cola/gateway/impl/CustomerGatewayImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zgw-cola-core-infrastructure/src/main/java/com/zgw/cola/customer/CustomerMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/zgw-cola-core-infrastructure/src/main/java/com/zgw/cola/dao/mapper/CustomerMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zgw-cola-core-infrastructure/src/main/java/com/zgw/cola/order/OrderGatewayImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zgw-cola-core-infrastructure/src/main/resources/mybatis/customer-mapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zgw-cola-core-infrastructure/src/main/resources/mybatis/customer-mapper.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617087374835</updated>
-      <workItem from="1617087383689" duration="5214000" />
+      <workItem from="1617087383689" duration="5525000" />
     </task>
     <task id="LOCAL-00001" summary="架构调整">
       <created>1617087883794</created>
@@ -125,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617088027262</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="架构调整">
+      <created>1617092751315</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617092751315</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,10 +134,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="架构调整" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="47" y="0" key="CommitChangelistDialog2" timestamp="1617088025195">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1617092748806">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="47" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1617088025195" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1617092748806" />
     <state x="413" y="50" key="FileChooserDialogImpl" timestamp="1617085239464">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -180,10 +178,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="71" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1617089521817" />
-    <state x="175" y="36" key="Vcs.Push.Dialog.v2" timestamp="1617088030681">
+    <state x="175" y="36" key="Vcs.Push.Dialog.v2" timestamp="1617092932435">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="175" y="36" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1617088030681" />
+    <state x="175" y="36" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1617092932435" />
     <state x="310" y="66" width="746" height="596" key="find.popup" timestamp="1617091861854">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
