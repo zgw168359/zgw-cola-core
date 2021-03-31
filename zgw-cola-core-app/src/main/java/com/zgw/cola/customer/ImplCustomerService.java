@@ -3,11 +3,10 @@ package com.zgw.cola.customer;
 import com.alibaba.cola.dto.MultiResponse;
 import com.alibaba.cola.dto.Response;
 import com.alibaba.cola.catchlog.CatchAndLog;
-import com.zgw.cola.api.CustomerServiceI;
+import com.zgw.cola.api.ICustomerService;
 import com.zgw.cola.dto.CustomerAddCmd;
 import com.zgw.cola.dto.CustomerListByNameQry;
 import com.zgw.cola.dto.data.CustomerDTO;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.zgw.cola.customer.executor.CustomerAddCmdExe;
@@ -18,7 +17,7 @@ import javax.annotation.Resource;
 
 @Service
 @CatchAndLog
-public class CustomerServiceImpl implements CustomerServiceI {
+public class ImplCustomerService implements ICustomerService {
 
     @Resource
     private CustomerAddCmdExe customerAddCmdExe;

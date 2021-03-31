@@ -5,8 +5,8 @@ package com.zgw.cola.wap;
  *
  * WAP : Wireless Application Protocol)
  *
- * @author Frank Zhang
- * @date 2020-10-27 8:03 PM
+ * @author zgw
+ * @since 2021-03-30
  */
 public class CustomerWapAdaptor {
 }

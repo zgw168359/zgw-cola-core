@@ -3,9 +3,8 @@ package com.zgw.cola.mobile;
 /**
  * Customer Mobile Adaptor
  *
- *
- * @author Frank Zhang
- * @date 2020-10-27 8:04 PM
+ * @author zgw
+ * @since 2021-03-30
  */
 public class CustomerMobileAdaptor {
 }

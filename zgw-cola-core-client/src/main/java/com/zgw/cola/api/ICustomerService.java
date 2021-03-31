@@ -6,7 +6,7 @@ import com.zgw.cola.dto.CustomerAddCmd;
 import com.zgw.cola.dto.CustomerListByNameQry;
 import com.zgw.cola.dto.data.CustomerDTO;
 
-public interface CustomerServiceI {
+public interface ICustomerService {
 
     public Response addCustomer(CustomerAddCmd customerAddCmd);
 

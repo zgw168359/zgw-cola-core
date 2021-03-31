@@ -8,7 +8,8 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 /**
  * Spring Boot Starter
  *
- * @author Frank Zhang
+ * @author zgw
+ * @since 2021-03-30
  */
 @SpringBootApplication(scanBasePackages = {"com.zgw.cola"})
 @MapperScan("com.zgw.cola.dao")

@@ -2,7 +2,7 @@ package com.zgw.cola.web;
 
 import com.alibaba.cola.dto.MultiResponse;
 import com.alibaba.cola.dto.Response;
-import com.zgw.cola.api.CustomerServiceI;
+import com.zgw.cola.api.ICustomerService;
 import com.zgw.cola.dto.CustomerAddCmd;
 import com.zgw.cola.dto.CustomerListByNameQry;
 import com.zgw.cola.dto.data.CustomerDTO;
@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.*;
 public class CustomerController {
 
     @Autowired
-    private CustomerServiceI customerService;
+    private ICustomerService customerService;
 
     @GetMapping(value = "/helloworld")
     public String helloWorld(){
