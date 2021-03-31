@@ -27,9 +27,14 @@
             <artifactId>cola-component-exception</artifactId>
         </dependency>
         <!-- COLA components End-->
+
         <dependency>
             <groupId>com.zgw.cola</groupId>
-            <artifactId>zgw-cola-core-client</artifactId>
+            <artifactId>zgw-cola-common-core-client</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.zgw.cola</groupId>
+            <artifactId>zgw-cola-common-base</artifactId>
         </dependency>
     </dependencies>
 

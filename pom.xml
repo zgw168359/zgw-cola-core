@@ -22,7 +22,6 @@
     </properties>
 
     <modules>
-        <module>zgw-cola-core-client</module>
         <module>zgw-cola-core-adapter</module>
         <module>zgw-cola-core-app</module>
         <module>zgw-cola-core-domain</module>
@@ -63,11 +62,6 @@
             </dependency>
             <dependency>
                 <groupId>com.zgw.cola</groupId>
-                <artifactId>zgw-cola-core-client</artifactId>
-                <version>${project.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>com.zgw.cola</groupId>
                 <artifactId>zgw-cola-core-app</artifactId>
                 <version>${project.version}</version>
             </dependency>
@@ -79,6 +73,17 @@
             <dependency>
                 <groupId>com.zgw.cola</groupId>
                 <artifactId>zgw-cola-core-infrastructure</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>com.zgw.cola</groupId>
+                <artifactId>zgw-cola-common-core-client</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.zgw.cola</groupId>
+                <artifactId>zgw-cola-common-base</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <!--Project modules End-->
